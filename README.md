@@ -1,1 +1,3 @@
-# dotfiles-zshrc
+My zshrc dotfiles
+
+Enjoy the tweaks
